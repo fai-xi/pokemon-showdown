@@ -20117,4 +20117,16 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	asudem: {
+  num: 5001,
+  name: "Asudem",
+  types: ["Poison", "Fairy"],
+  genderRatio: { M: 0.875, F: 0.125 },
+  baseStats: { hp: 45, atk: 55, def: 40, spa: 45, spd: 60, spe: 55 },
+  abilities: { 0: "Shed Skin", 1: "Intimidate", H: "Corrosion" },
+  heightm: 0.7,        // your JSON "height": 7 → 0.7 m
+  weightkg: 125,
+  color: "Purple",
+  eggGroups: ["Monster", "Dragon"],
+},
 };
