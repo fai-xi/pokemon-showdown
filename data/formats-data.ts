@@ -1,6 +1,69 @@
 export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable = {
 	asudem: {
-		tier: "LC",
+  tier: "LC",
+},
+onehts: {
+  tier: "NFE",
+},
+elayrue: {
+  tier: "OU",
+},
+
+bunnilope: {
+  tier: "ZU",
+},
+
+vegitini: {
+  tier: "LC",
+},
+rooticious: {
+  tier: "UU",
+},
+
+deathread: {
+  tier: "RU",
+},
+
+pixmini: {
+  tier: "LC",
+},
+fairibbon: {
+  tier: "NFE",
+},
+whimserina: {
+  tier: "RU",
+},
+
+swimelody: {
+  tier: "LC",
+},
+operaqua: {
+  tier: "NFE",
+},
+mermadame: {
+  tier: "UU",
+},
+
+nobiseen: {
+  tier: "OU",
+},
+
+mushup: {
+  tier: "LC",
+},
+housoup: {
+  tier: "RU",
+},
+
+bugublin: {
+  tier: "LC",
+},
+flufaxe: {
+  tier: "UU",
+},
+
+storytella: {
+  tier: "Uber",
 	},
 	bulbasaur: {
 		tier: "LC",
