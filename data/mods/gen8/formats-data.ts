@@ -1,4 +1,61 @@
 export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormatsDataTable = {
+		onehts: {
+		tier: "NFE",
+	},
+	elayrue: {
+		tier: "OU",
+	},
+	bunnilope: {
+		tier: "PU",
+	},
+	vegitini: {
+		tier: "LC",
+	},
+	rooticious: {
+		tier: "UU",
+	},
+	deathread: {
+		tier: "UUBL",
+	},
+	pixmini: {
+		tier: "LC",
+	},
+	fairibbon: {
+		tier: "NFE",
+	},
+	whimserina: {
+		tier: "UU",
+	},
+	swimelody: {
+		tier: "LC",
+	},
+	operaqua: {
+		tier: "NFE",
+	},
+	mermadame: {
+		tier: "OU",
+	},
+	nobiseen: {
+		tier: "RU",
+	},
+	mushup: {
+		tier: "LC",
+	},
+	housoup: {
+		tier: "RU",
+	},
+	bugublin: {
+		tier: "LC",
+	},
+	flufaxe: {
+		tier: "UU",
+	},
+	storytella: {
+		tier: "Uber",
+	},
+	mordraun: {
+		tier: "UU",
+	},
 	bulbasaur: {
 		tier: "LC",
 	},
